@@ -1,8 +1,8 @@
-Calculadora Simples em Java
+<h1>Calculadora Simples em Java<h1></h1>
 
 Este projeto é uma calculadora simples desenvolvida em Java que permite ao usuário escolher uma operação matemática e inserir dois valores para realizar o cálculo.
 
-📌 Pré-requisitos
+<h2>📌 Pré-requisitos</h2>
 
 Antes de executar o código, certifique-se de que você tem o seguinte instalado:
 
@@ -10,7 +10,7 @@ Java Development Kit (JDK) instalado na sua máquina.
 
 Um editor de código ou IDE, como VS Code ou IntelliJ IDEA.
 
-🚀 Como Executar o Código
+<h2>🚀 Como Executar o Código</h2>
 
 Crie um arquivo chamado Calculadora.java e adicione o código-fonte.
 
@@ -26,7 +26,7 @@ java Calculadora
 
 Escolha uma das operações disponíveis e insira dois números quando solicitado.
 
-📌 O que o código faz
+<h2>📌 O que o código faz</h2>
 
 O programa solicita ao usuário que escolha uma operação matemática.
 
@@ -38,7 +38,7 @@ Se a opção digitada for inválida, uma mensagem de erro será exibida.
 
 Caso o usuário escolha a divisão e tente dividir por zero, o programa exibe uma mensagem de erro para evitar falhas.
 
-📚 O que você aprendeu ao fazer esse código
+<h2>📚 O que você aprendeu ao fazer esse código</h2>
 
 Como importar e usar a classe Scanner para capturar entrada do usuário.
 
@@ -52,7 +52,7 @@ Como usar System.out.println para exibir mensagens no console.
 
 Como compilar e executar um programa Java no terminal.
 
-🎯 Melhorias Futuras
+<h2>🎯 Melhorias Futuras</h2>
 
 Algumas melhorias que podem ser implementadas:
 
@@ -62,7 +62,7 @@ Adicionar suporte a números inteiros e decimais dinamicamente.
 
 Criar uma interface gráfica para facilitar o uso.
 
-📞 Contato
+<h2>📞 Contato</h2>
 
 Se tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato!
 
